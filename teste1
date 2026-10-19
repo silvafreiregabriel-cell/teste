@@ -1,0 +1,3 @@
+quantidade= int(input("cada suco custa 5 reais,Quantos sucos você deseja? "))
+suco = 5
+print("O valor final dos sucos é R$", quantidade*suco, "reais")
